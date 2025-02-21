@@ -24,3 +24,9 @@ This project focuses on sentiment classification of IMDB movie reviews using nat
 ### Model Evaluation:
 - Accuracy, precision, recall, and F1-score metrics used to evaluate model performance.
 
+## Prerequisites
+- Python 3.9+
+- Required libraries:
+  ```bash
+  pip install -r requirements.txt 
+
